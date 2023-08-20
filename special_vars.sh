@@ -7,3 +7,4 @@ echo all argument - $*
 
 echo Script name - $0
 mysql pass - Roboshop@1
+rabbitmq_app_pass - roboshop123
